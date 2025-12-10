@@ -77,14 +77,14 @@ My unique combination of software engineering and 3D/game development skills ena
 ### **Backend Systems**
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| **[E-commerce API](https://github.com/Casper7388/ecommerce-api)** | Node.js, PostgreSQL, Redis, RabbitMQ | Scalable microservices architecture with real-time inventory |
-| **[Real-time Chat](https://github.com/Casper7388/chat-app)** | NestJS, MongoDB, WebSockets | Enterprise messaging platform with file sharing |
+| **[E-commerce API](https://github.com/orhantok143/ecommerce-api)** | Node.js, PostgreSQL, Redis, RabbitMQ | Scalable microservices architecture with real-time inventory |
+| **[Real-time Chat](https://github.com/orhantok143/chat-app)** | NestJS, MongoDB, WebSockets | Enterprise messaging platform with file sharing |
 
 ### **Creative Tech**
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| **[3D Portfolio](https://github.com/Casper7388/3d-portfolio)** | Three.js, React, Node.js | Interactive 3D portfolio with animated models |
-| **[Game Prototype](https://github.com/Casper7388/unity-game)** | Unity, C#, Node.js | Multiplayer prototype with custom backend |
+| **[3D Portfolio](https://github.com/orhantok143/3d-portfolio)** | Three.js, React, Node.js | Interactive 3D portfolio with animated models |
+| **[Game Prototype](https://github.com/orhantok143/unity-game)** | Unity, C#, Node.js | Multiplayer prototype with custom backend |
 
 ---
 
@@ -112,7 +112,7 @@ My unique combination of software engineering and 3D/game development skills ena
         </a>
       </td>
       <td align="center">
-        <a href="mailto:EMAIL_ADRESINIZ">
+        <a href="mailto:orhantok143@gmail.com">
           <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" width="40" height="40" alt="Email" />
           <br><strong>Email</strong>
         </a>
