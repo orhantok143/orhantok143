@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Merhaba, Ben Casper!
 
-<!--
-**orhantok143/orhantok143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 Backend Geliştirici**
 
-Here are some ideas to get you started:
+İlgi alanlarım, projelerim ve öğrenme serüvenim hakkında daha fazla bilgi için aşağıya göz atabilirsin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Teknolojiler & Araçlar
+- **Backend:** Node.js, Python
+- **Veritabanı:** MySQL, MongoDB
+- **Araçlar:** Git, Docker, VS Code
+
+## 📈 GitHub İstatistiklerim
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Casper7388&show_icons=true&theme=radical)
+
+## 📫 Benimle İletişime Geç
+[![LinkedIn Profilim](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/...)
