@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 Professional Profile
+## 👨‍💻 Profile
 
 **Full Stack Developer** with a passion for creating robust backend systems and engaging interactive experiences. Combining technical expertise in software architecture with creative skills in 3D modeling and game development to build unique digital solutions.
 
@@ -69,22 +69,6 @@ My unique combination of software engineering and 3D/game development skills ena
 - **Architectural Visualization Tool:** Web app with real-time 3D rendering of building models
 - **Game Server Backend:** Custom backend for multiplayer Unity games using WebSockets
 - **Data Visualization Dashboard:** Interactive 3D charts using Three.js with live data feeds
-
----
-
-## 📊 Development Analytics
-
-<div align="center">
-  
-| **Metrics** | **Activity** | **Streak** |
-|-------------|--------------|------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=Casper7388&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Casper7388&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" width="300" /> | <img src="https://streak-stats.demolab.com?user=Casper7388&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="GitHub Streak" width="400" /> |
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Casper7388&theme=github-dark&hide_border=true&area=true&custom_title=Weekly%20Contribution%20Activity&point=2E86C1" alt="Activity Graph" width="90%" />
-</div>
 
 ---
 
